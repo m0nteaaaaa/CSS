@@ -1,0 +1,14 @@
+h1{
+    font-weight: 900;
+    font-size: 30px;
+}
+li{
+    color: blue;
+}
+.grey{
+    color: grey;
+}
+#red{
+    color: white;
+    background-color: red;
+}

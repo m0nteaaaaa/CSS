@@ -1,0 +1,32 @@
+h1{
+    color: magenta;
+    text-align: center;
+}
+h2{
+    text-align: right;
+    font-weight: bolder;
+}
+h3{
+    text-decoration: blue line-through wavy 1px;
+}
+button{
+    color: white;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+p{
+    line-height: 2.5;
+    letter-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: plum wavy underline;
+}
