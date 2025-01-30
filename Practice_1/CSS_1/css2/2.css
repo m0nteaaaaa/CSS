@@ -1,0 +1,16 @@
+body{
+    background-color: url(www.img.com);
+}
+div{
+    background-color: blue;
+    border-color: orange ;
+    border-width: 1px;
+    border-style: solid;
+}
+p{
+    color: yellow;
+}
+span{
+    background: red;
+    color: black;
+}
